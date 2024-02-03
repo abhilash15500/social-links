@@ -1,0 +1,74 @@
+body {
+    margin:0;
+    padding:0;
+    background-color:black;
+    color:white;
+    font-family:poppins;
+  }
+  
+  div {
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    background-color:rgb(53, 52, 52);
+    justify-content:center;
+    width:380px;
+    height: 600px;
+    margin: auto;
+    margin-top: 200px;
+    border-radius: 15px;
+  }
+  
+  
+  button {
+    width:80%;
+    height:70px;
+    margin:10px;
+    background-color:rgb(94, 93, 93);
+    color:white;
+    border-radius:10px;
+    font-weight: 700;
+    border:2px solid rgb(53, 52, 52);
+  cursor: pointer;
+  
+
+
+}
+
+#lastbtn {
+  margin-bottom: 25px;
+}
+
+
+button:hover {
+    background-color: black;
+}
+  
+  img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+  
+    
+  }
+
+  
+
+  #xplozion {
+    color: red;
+    font-weight: 700;
+    margin: 0px;
+  }
+
+
+  #valorant {
+    font-size: 14px;
+  }
+
+
+  #india {
+    margin-top:0;
+  }
